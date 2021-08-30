@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7a95f44-3927-419b-abc5-9a05be7baa0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/currency-conversion" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>

@@ -51,7 +51,7 @@ function App() {
       <>
             <h1>Currency-Converter</h1>
             <div className="card">
-            <h3>Covert currency from USD to any other</h3>
+            <h3>Enter amount in USD to convert it to specified currency</h3>
             <CurrencyRow
                 currencyOptions={currencyOptions}
                 selectedCurrency={toCurrency}
